@@ -1,3 +1,3 @@
 # blog-code-along
 
-Deployed at: https://flask-blog-testing.herokuapp.com/
+Deployed at: https://flask-testing-blog.herokuapp.com/
